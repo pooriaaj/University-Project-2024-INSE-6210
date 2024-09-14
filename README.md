@@ -1,8 +1,6 @@
 University Project 2024 - INSE 6210: Six Sigma Methodologies for Pharmaceutical Distribution
 
 
-
-
 Project Overview
 This project applies Six Sigma methodologies to improve the pharmaceutical distribution process at Alborz Company, focusing on reducing errors in product deliveries. We use the DMAIC framework (Define, Measure, Analyze, Improve, Control) to optimize delivery accuracy and process capability.
 
